@@ -9,3 +9,8 @@ newwwwwwwwwww
 test git add
 
 what is diff command
+
+
+create function 1
+
+write something

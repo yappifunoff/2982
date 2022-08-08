@@ -1,20 +1,14 @@
-**запись1**
-
-*тут что - то еще добавил*
-
-запись3
-
-newwwwwwwwwww
+sdfsdfsdfsdsd
 
 test git add
 
-what is diff command
+sdfdsfdsfdsfsd
+
+jnskjdfnfs
 
 
-edit function 1
-
-edit something
+sdfsdfsf
 
 
-создал и поменял тут всёёёёёёёё
-
+s
+dfsdfs

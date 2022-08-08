@@ -11,9 +11,9 @@ test git add
 what is diff command
 
 
-create function 1
+edit function 1
 
-write something
+edit something
 
 
 создал функционал ветки 2
